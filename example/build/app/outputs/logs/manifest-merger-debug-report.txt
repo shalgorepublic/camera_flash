@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:video_player] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:e2e] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/e2e/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:camera] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/500d977ccfe5a2cd87b0c07d63259e07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/6faf3095f64c2b3921173171057dad9f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/09c0a58f4c42b87b3b0a05afec1f7c07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/aa94fcf41920ccb1b44de3957291c800/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/191fb0e748990a633e07adb322913e3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/464c698b9e803d00345087987ebfa904/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/c0d5ee4dc606e45d3923ffb8f5fabe6c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/41b1b5e7708f04844977dacc7ad1eac8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9aaf7c07eece752a44a1cef0ade38a99/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/dbdf4a01db8e51645fa09ef7cbac7ec9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:rules:1.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/rules-1.2.0.aar/4470279e93da7fdec759112acf11fd21/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/espresso-core-3.2.0.aar/8125bdd7b7da32d105eaa425da9c872d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/runner-1.2.0.aar/76d300e898405bac5797fa6a41426842/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1e1362f9cd7418875a3ed335a278f9f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/1dc107e16d79d59d07bcd87e0b1d926e/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.test:monitor:1.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/monitor-1.2.0.aar/d72e89f59c58647361265d8525690d81/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c69d837c8d0a2aafe4667ac909d816d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-hls-2.9.6.aar/e86ddd0ed6ac20d042ebcde124cd374d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-dash-2.9.6.aar/8eb0e5566750367981b82e6cfb951c3c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-smoothstreaming-2.9.6.aar/9273a135891b52bae6aba7231e022e1a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/8d34ff20a71d363efb070ef6965614fc/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.2.0.aar/d5a4f5b51c4ee5134002c71e390ad70e/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:2:3-45
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:4:3-32:17
+MERGED from [androidx.core:core:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/464c698b9e803d00345087987ebfa904/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/464c698b9e803d00345087987ebfa904/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/1dc107e16d79d59d07bcd87e0b1d926e/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/1dc107e16d79d59d07bcd87e0b1d926e/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/464c698b9e803d00345087987ebfa904/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:6:5-35
+	android:icon
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:5:5-39
+	android:name
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:7:5-53
+activity#io.flutter.plugins.cameraexample.EmbeddingV1Activity
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:8:5-19:16
+	android:launchMode
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:11:7-37
+	android:hardwareAccelerated
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:windowSoftInputMode
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:15:7-49
+	android:exported
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:12:7-30
+	android:configChanges
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:9:7-100
+	android:theme
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:14:7-41
+	android:name
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:13:7-42
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:16:7-18:31
+	android:value
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:18:9-29
+	android:name
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:17:9-74
+activity#io.flutter.plugins.cameraexample.MainActivity
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:20:5-31:16
+	android:launchMode
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:23:7-37
+	android:hardwareAccelerated
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:22:7-41
+	android:windowSoftInputMode
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:26:7-49
+	android:configChanges
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:21:7-100
+	android:theme
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:25:7-41
+	android:name
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:24:7-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:27:7-30:23
+action#android.intent.action.MAIN
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:28:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:29:19-66
+uses-feature#android.hardware.camera
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:34:3-36:30
+	android:required
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:36:5-28
+	android:name
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:35:5-43
+uses-permission#android.permission.INTERNET
+ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:38:3-64
+	android:name
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml:38:20-62
+uses-sdk
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+MERGED from [:video_player] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:e2e] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/e2e/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:e2e] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/e2e/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:camera] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:camera] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/500d977ccfe5a2cd87b0c07d63259e07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/500d977ccfe5a2cd87b0c07d63259e07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/6faf3095f64c2b3921173171057dad9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/6faf3095f64c2b3921173171057dad9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/09c0a58f4c42b87b3b0a05afec1f7c07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/09c0a58f4c42b87b3b0a05afec1f7c07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/aa94fcf41920ccb1b44de3957291c800/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/aa94fcf41920ccb1b44de3957291c800/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/191fb0e748990a633e07adb322913e3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/191fb0e748990a633e07adb322913e3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/464c698b9e803d00345087987ebfa904/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/464c698b9e803d00345087987ebfa904/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/c0d5ee4dc606e45d3923ffb8f5fabe6c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/c0d5ee4dc606e45d3923ffb8f5fabe6c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/41b1b5e7708f04844977dacc7ad1eac8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/41b1b5e7708f04844977dacc7ad1eac8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9aaf7c07eece752a44a1cef0ade38a99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9aaf7c07eece752a44a1cef0ade38a99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/dbdf4a01db8e51645fa09ef7cbac7ec9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/dbdf4a01db8e51645fa09ef7cbac7ec9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:rules:1.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/rules-1.2.0.aar/4470279e93da7fdec759112acf11fd21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/rules-1.2.0.aar/4470279e93da7fdec759112acf11fd21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/espresso-core-3.2.0.aar/8125bdd7b7da32d105eaa425da9c872d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/espresso-core-3.2.0.aar/8125bdd7b7da32d105eaa425da9c872d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/runner-1.2.0.aar/76d300e898405bac5797fa6a41426842/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/runner-1.2.0.aar/76d300e898405bac5797fa6a41426842/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1e1362f9cd7418875a3ed335a278f9f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1e1362f9cd7418875a3ed335a278f9f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/1dc107e16d79d59d07bcd87e0b1d926e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/1dc107e16d79d59d07bcd87e0b1d926e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/monitor-1.2.0.aar/d72e89f59c58647361265d8525690d81/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/monitor-1.2.0.aar/d72e89f59c58647361265d8525690d81/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c69d837c8d0a2aafe4667ac909d816d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c69d837c8d0a2aafe4667ac909d816d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-hls-2.9.6.aar/e86ddd0ed6ac20d042ebcde124cd374d/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-hls-2.9.6.aar/e86ddd0ed6ac20d042ebcde124cd374d/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-dash-2.9.6.aar/8eb0e5566750367981b82e6cfb951c3c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-dash-2.9.6.aar/8eb0e5566750367981b82e6cfb951c3c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-smoothstreaming-2.9.6.aar/9273a135891b52bae6aba7231e022e1a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-smoothstreaming-2.9.6.aar/9273a135891b52bae6aba7231e022e1a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/8d34ff20a71d363efb070ef6965614fc/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/8d34ff20a71d363efb070ef6965614fc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.2.0.aar/d5a4f5b51c4ee5134002c71e390ad70e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.2.0.aar/d5a4f5b51c4ee5134002c71e390ad70e/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:camera] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera] /home/algorepublic/Downloads/plugins-camera_torch/packages/camera/example/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/8d34ff20a71d363efb070ef6965614fc/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/algorepublic/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-core-2.9.6.aar/8d34ff20a71d363efb070ef6965614fc/AndroidManifest.xml:24:22-76
